@@ -1,5 +1,5 @@
-## Lazyloading Image in Rails
-[![Gem Version](https://badge.fury.io/rb/lazyload-image-rails.svg)](http://badge.fury.io/rb/lazyload-image-rails)
+## Lazyloading Image in Rails [![Gem Version](https://badge.fury.io/rb/lazyload-image-rails.svg)](http://badge.fury.io/rb/lazyload-image-rails)
+
 Lazy Load is delays loading of images in long web pages. Images outside of viewport are not loaded until user scrolls to them. This is opposite of image preloading. 
 
 Using Lazy Load on long web pages will make the page load faster. In some cases it can also help to reduce server load. 
