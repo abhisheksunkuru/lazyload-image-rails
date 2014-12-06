@@ -36,7 +36,8 @@ You must alter your image tags. Address of the image must be put into data-origi
     $("img.lazy").lazyload();
   });
 ```
-For more information please refer 
+####For more information please refer:
+
 1. http://www.appelsiini.net/projects/lazyload
 2. https://github.com/tuupola/jquery_lazyload  
 
