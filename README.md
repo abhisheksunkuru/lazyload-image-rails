@@ -28,13 +28,14 @@ in application.js add following
 	= require jquery.lazyload
 
 You must alter your image tags. Address of the image must be put into data-original attribute. Give lazy loaded images a specific class. This way you can easily control which images plugin is binded to.
-<code>
+```html
   <img class="lazy" data-original="img/example.jpg" width="640" height="480">
-</code>
+```
+```javascript
   $(function() {
     $("img.lazy").lazyload();
   });
-
+```
 For more information please refer 
 1. http://www.appelsiini.net/projects/lazyload
 2. https://github.com/tuupola/jquery_lazyload  
