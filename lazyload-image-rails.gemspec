@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Lazyload::Image::Rails::VERSION
   spec.authors       = ["abhishek"]
   spec.email         = ["abhisheksunkuru@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{performance improvement}
+  spec.description   = %q{lazy loading image will be helpful to improve performance}
   spec.homepage      = ""
   spec.license       = "MIT"
 
